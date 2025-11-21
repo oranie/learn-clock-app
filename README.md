@@ -51,3 +51,14 @@ This app is configured for deployment on **Google Cloud Run**.
 ```bash
 gcloud run deploy learning-app --source . --allow-unauthenticated --region asia-northeast1
 ```
+
+## License / ライセンス
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+本プロジェクトはMITライセンスの下で公開されています。詳細は [LICENSE](LICENSE) ファイルを参照してください。
+
+## Disclaimer / 免責事項
+
+This application was created with the assistance of **Antigravity**, an AI coding assistant by Google DeepMind.
+このアプリケーションは、Google DeepMindによって開発されたAIコーディングアシスタント **Antigravity** を利用して作成されました。
+
