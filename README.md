@@ -16,6 +16,13 @@ A fun and interactive web application designed to help children learn how to rea
 -   **Kid-Friendly UI**: Bright colors, large fonts, and easy-to-read 5-minute markers.
     -   **子供向けデザイン**: 明るい色使い、大きな文字、読みやすい5分刻みの目盛りを採用しています。
 
+## Screenshots / スクリーンショット
+
+| Main View / メイン画面 | Quiz Mode / クイズモード |
+|:---:|:---:|
+| ![Main View](assets/app_main_view.png) | ![Quiz View](assets/app_quiz_view.png) |
+
+
 ## Tech Stack / 技術スタック
 
 -   HTML5
